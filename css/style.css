@@ -194,6 +194,13 @@ html, body {
         max-height: auto;
         max-width: 20px;
     }
+
+    .row1 {
+     display: block;
+        flex-direction: unset;
+        gap: unset;
+        justify-content: unset;
+}
 }
 
 @media (min-width: 992px) {
